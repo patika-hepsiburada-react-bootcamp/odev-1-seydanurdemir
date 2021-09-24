@@ -1,4 +1,4 @@
-// getDat function imported
+// getData function imported
 import getData from './lib/service.js';
 
 // got data of user whose id 1
